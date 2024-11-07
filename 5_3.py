@@ -266,15 +266,3 @@ def password_validation(
         raise NeedCharError
 
     return sha256(p_word.encode("utf-8")).hexdigest()
-
-#Задача K
-
-#Задача L
-
-#Задача M
-
-#Задача N
-
-#Задача O
-
-#Задача P
